@@ -1,0 +1,16 @@
+D:\ООП\Lab28\Lab28\bin\Debug\net8.0-windows\Lab28.exe
+D:\ООП\Lab28\Lab28\bin\Debug\net8.0-windows\Lab28.deps.json
+D:\ООП\Lab28\Lab28\bin\Debug\net8.0-windows\Lab28.runtimeconfig.json
+D:\ООП\Lab28\Lab28\bin\Debug\net8.0-windows\Lab28.dll
+D:\ООП\Lab28\Lab28\bin\Debug\net8.0-windows\Lab28.pdb
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.Form1.resources
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.csproj.GenerateResource.cache
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.AssemblyInfoInputs.cache
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.AssemblyInfo.cs
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.csproj.CoreCompileInputs.cache
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.dll
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\refint\Lab28.dll
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.pdb
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\Lab28.genruntimeconfig.cache
+D:\ООП\Lab28\Lab28\obj\Debug\net8.0-windows\ref\Lab28.dll
